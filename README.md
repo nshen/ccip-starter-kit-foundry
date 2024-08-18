@@ -1,3 +1,10 @@
+## Day3 作业
+
+https://ccip.chain.link/msg/0x31b8c2a0cbe5c6a70326671935262659580332a63edd20441d7c985c70c26c52
+
+`forge script ./script/TransferUSDC.s.sol --rpc-url $AVALANCHE_FUJI_RPC_URL --broadcast`
+
+
 ## Chainlink CCIP Starter Kit
 
 > **Note**
